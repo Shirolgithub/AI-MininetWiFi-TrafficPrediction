@@ -2,12 +2,10 @@
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard]("C:\Users\Aishwarya Shirol\Downloads\Screenshot 2026-05-14 212236.png")
 
-## Mininet-WiFi Topology
 
-![Topology](screenshots/topology.png)
 
 ## Prediction Graph
 
-![Graph](screenshots/prediction_graph.png)
+![Graph]("C:\Users\Aishwarya Shirol\OneDrive\Pictures\Screenshots\Screenshot 2026-05-14 200901.png")
